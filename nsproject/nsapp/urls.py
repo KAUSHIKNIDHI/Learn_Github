@@ -9,3 +9,6 @@ urlpatterns = [
      path('instructors/<int:pk>', InstructorDetailView.as_view(), name='instructor-detail'),
         
 ]
+
+
+"New Account"
