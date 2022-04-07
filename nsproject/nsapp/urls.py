@@ -11,4 +11,4 @@ urlpatterns = [
 ]
 
 
-"New Account"
+
